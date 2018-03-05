@@ -1,4 +1,4 @@
-#USE AT OWN RISK!!! Possibly detected
+# USE AT OWN RISK!!! Possibly detected
 
 ## PUBG-Radar ![Imgur](https://i.imgur.com/n3JtN5d.png)
 
